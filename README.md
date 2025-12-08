@@ -3,5 +3,5 @@
    blog -> blog.shxrk.dev
    evmd -> evermind.shxrk.dev */
 
-contact me via discord
+contact me via discord (@yeahimwise)
 ```
