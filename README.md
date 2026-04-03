@@ -3,5 +3,5 @@
    blog -> blog.wisest.cc
    evmd -> evermind.shxrk.dev */
 
-contact me via discord (@yeahimwise)
+contact me via discord (@w1.se)
 ```
