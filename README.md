@@ -1,7 +1,9 @@
-```c#
-/* home -> wisest.cc
-   blog -> blog.wisest.cc
-   evmd -> evermind.shxrk.dev */
+## hey there
+i'm dylan, you may know me as either wise or pwdr
+i'm a 14 year old fullstack developer and I really enjoy typescript
 
-contact me via discord (@w1.se)
-```
+
+## projects
+i make random projects whenever I feel like it and you can find them
+under my repos tab. I also have an org, WickedSoftworks where I keep some
+of my cooler projects such as evermind and winstro
