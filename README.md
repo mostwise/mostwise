@@ -5,8 +5,13 @@ i'm a 14 year old fullstack developer and I really enjoy typescript
 
 
 ## projects
-i make random projects whenever I feel like it and you can find them
+I make random projects whenever I feel like it and you can find them under my repos tab.
 
-under my repos tab. I also have an org, WickedSoftworks where I keep some
+I also have an org, WickedSoftworks where I keep some of my cooler projects such as evermind and winstro
 
-of my cooler projects such as evermind and winstro
+## contact
+if you want to contact me, my preferred method is discord
+
+you can contact me preferrably @imsoftaspowder or @w1.se, whichever works best for you. 
+
+I have other methods of contact you can find on my website wisest.cc
