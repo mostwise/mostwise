@@ -14,4 +14,4 @@ if you want to contact me, my preferred method is discord
 
 you can contact me preferrably @imsoftaspowder or @w1.se, whichever works best for you. 
 
-I have other methods of contact you can find on my website wisest.cc
+I have other methods of contact you can find on my website [wisest.cc](https://wisest.cc)
