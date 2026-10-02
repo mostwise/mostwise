@@ -1,4 +1,4 @@
-```bash
+```typescript
        _-_
     /~~   ~~\
  /~~         ~~\         dylan s.
